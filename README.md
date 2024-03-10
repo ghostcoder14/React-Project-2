@@ -1,5 +1,5 @@
 <div align="center">
- ![Project Image](./Images/Screenshot 2024-03-10 141728.png)
+ ![Project Image](./Images/Screenshot%202024-03-10%20141728.png)
   <h1>Password Generator</h1>
   <p>A simple password generator built with React and React Router.</p>
 </div>
