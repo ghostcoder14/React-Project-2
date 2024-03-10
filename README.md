@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://your-project-logo-url.png" alt="Project Logo" width="200">
+ ![Project Image](./images/brand%20page%20phot.png)
   <h1>Password Generator</h1>
   <p>A simple password generator built with React and React Router.</p>
 </div>
